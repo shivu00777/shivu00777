@@ -16,18 +16,13 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDE
 ---
 
 ### 🌟 **Projects**
-1. **Naaptol Website Automation (Selenium + Cucumber)**
+1. ** Selenium_POM_Project **
    - Automated end-to-end test cases for the 'Tablets and Computers' category.
    - Implemented Cucumber BDD framework, assertions, screenshots, and reporting.
 
-2. **tutorialsninja (Cypress)**
+2. ** Selenium_BDD_Cucumber_Project **
    - Automated feature validation of tutorialsninja application using Cypress.
 
-3. **API Testing with REST Assured**
-   - Automated CART and USER APIs from using REST Assured, covering GET, POST, PUT, and DELETE operations.
-
-4. **Mobile App Testing (Appium)**
-   - Automated tasks for Podcast Player and MX Player apps, including touch gestures, scrolling, switching apps, and generating reports.
 
 ---
 
