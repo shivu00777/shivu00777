@@ -16,12 +16,12 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDE
 ---
 
 ### 🌟 **Projects**
-1. ** Selenium_POM_Project ** (https://github.com/shivu00777/Selenium_POM_Project.git)
+1. ** Selenium_BDD_Cucumber_Project ** (https://github.com/shivu00777/Selenium_POM_Project.git)
    - Automated end-to-end test cases for the 'Tablets and Computers' category.
    - Implemented Cucumber BDD framework, assertions, screenshots, and reporting.
 
-2. ** Selenium_BDD_Cucumber_Project ** (https://github.com/shivu00777/Selenium_BDD_Cucumber_Project.git)
-   - Automated feature validation of tutorialsninja application using Cypress.
+2. ** Selenium_POM_Project ** (https://github.com/shivu00777/Selenium_BDD_Cucumber_Project.git)
+   - Automated feature validation of tutorialsninja application using Selenium.
 
 
 ---
