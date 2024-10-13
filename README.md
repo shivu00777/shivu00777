@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDE
 ---
 
 ### 🌟 **Projects**
-1. ** Selenium_POM_Project **
+1. ** Selenium_POM_Project ** https://github.com/shivu00777/Selenium_POM_Project.git
    - Automated end-to-end test cases for the 'Tablets and Computers' category.
    - Implemented Cucumber BDD framework, assertions, screenshots, and reporting.
 
