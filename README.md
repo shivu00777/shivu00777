@@ -17,10 +17,12 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDE
 
 ### 🌟 **Projects**
 1. ** Selenium_BDD_Cucumber_Project ** (https://github.com/shivu00777/Selenium_BDD_Cucumber_Project.git)
+     - The purpose of automating the Naaptol 'Mobile and Tablet' section using Selenium BDD Cucumber is to ensure the seamless functionality and behavior of this category, enhancing test          clarity and collaboration through behavior-driven development (BDD).
    - Automated end-to-end test cases for the 'Tablets and Computers' category.
    - Implemented Cucumber BDD framework, assertions, screenshots, and reporting.
 
-2. ** Selenium_POM_Project ** (https://github.com/shivu00777/Selenium_POM_Project.git)
+3. ** Selenium_POM_Project ** (https://github.com/shivu00777/Selenium_POM_Project.git)
+   - The purpose of automating the Naaptol 'Mobile and Tablet' section using a Selenium POM (Page Object Model) project is to enhance test maintenance and reusability by organizing web elements and actions in a structured, modular framework. 
    - Automated feature validation of tutorialsninja application using Selenium.
 
 
