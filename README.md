@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDE
 
 ### 🌟 **Projects**
 1. ** Selenium_BDD_Cucumber_Project ** (https://github.com/shivu00777/Selenium_BDD_Cucumber_Project.git)
-     - The purpose of automating the Naaptol 'Mobile and Tablet' section using Selenium BDD Cucumber is to ensure the seamless functionality and behavior of this category, enhancing test          clarity and collaboration through behavior-driven development (BDD).
+     - To automate and validate the 'Mobile and Tablet' section using Selenium with BDD for clearer, collaborative test scenarios.
    - Automated end-to-end test cases for the 'Tablets and Computers' category.
    - Implemented Cucumber BDD framework, assertions, screenshots, and reporting.
 
