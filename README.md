@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDE
 
 ### 🛠️ **Skills & Tools**
 - **Programming Languages:** Java, Python, JavaScript
-- **Testing Frameworks:** Selenium, Cypress, Appium, REST Assured, Cucumber
+- **Testing Frameworks:** Selenium, Cypress, Appium, REST Assured, Cucumber, Playwright, TypeScript
 - **Automation Tools:** Maven, JUnit, TestNG, WebdriverIO (WDIO)
 - **API Testing:** Postman, REST Assured
 - **Mobile Testing:** Appium, Android Studio
