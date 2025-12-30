@@ -16,14 +16,13 @@ Welcome to my GitHub profile! I'm a **Software Development Engineer in Test (SDE
 ---
 
 ### 🌟 **Projects**
-1. ** Selenium_BDD_Cucumber_Project ** (https://github.com/shivu00777/Selenium_BDD_Cucumber_Project.git)
-     - To automate and validate the 'Mobile and Tablet' section using Selenium with BDD for clearer, collaborative test scenarios.
-   - Automated end-to-end test cases for the 'Tablets and Computers' category.
-   - Implemented Cucumber BDD framework, assertions, screenshots, and reporting.
+1. ** cleartrip_Playwright_mcp ** (https://github.com/shivu00777/cleartrip_Playwright_mcp.git)
+      - Used MCP-based LLM agent to generate Playwright commands from natural language prompts   
+      - Refined selectors and assertions manually for stability
+      - Improved test reliability by replacing hard waits with Playwright waits
 
-3. ** Selenium_POM_Project ** (https://github.com/shivu00777/Selenium_POM_Project.git)
-   - To improve test efficiency and maintainability by automating the 'Mobile and Tablet' section using Selenium with POM framework.
-   - Automated feature validation of tutorialsninja application using Selenium.
+3. ** orangehrm-playwright-cucumber-framework ** (https://github.com/shivu00777/orangehrm-playwright-cucumber-framework.git)
+     ✅ Automated Test Scenario The framework automates the following end-to-end workflow:
 
 
 ---
